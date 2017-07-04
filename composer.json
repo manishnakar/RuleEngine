@@ -1,0 +1,14 @@
+{
+    "name": "manishnakar/rule-engine",
+    "description": "Create Business rules in php",
+    "require": {
+        "php": "5.6.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manish Nakar",
+            "email": "manish.nakar@gmail.com"
+        }
+    ]
+}
